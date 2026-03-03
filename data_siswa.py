@@ -9,7 +9,7 @@ class Siswa:
     def __init__(self, nama="", kelas="", nilai_inggris=0, nilai_matematika=0, nilai_fisika=0):
         self.nama = nama
         self.kelas = kelas
-        self.nilai_inggriss = float(nilai_inggris)
+        self.nilai_inggris = float(nilai_inggris)
         self.nilai_matematika = float(nilai_matematika)
         self.nilai_fisika = float(nilai_fisika)
     
@@ -221,6 +221,7 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
 
 
