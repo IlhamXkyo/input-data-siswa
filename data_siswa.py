@@ -157,7 +157,7 @@ def tampilkan_data_siswa(database):
         print("\n" + "=" * 40)
         print(f"Jumlah Data: {len(database)} siswa")
         print("=" * 40)
-        print("1. Hapus Data")
+        print("1. Hapus Data Siswa")
         print("2. Kembali ke Menu Utama")
         
         pilihan = input("Pilihan (1-2): ").strip()
@@ -221,3 +221,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
