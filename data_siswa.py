@@ -77,7 +77,7 @@ def tampilkan_menu():
     print("=" * 40)
     print("1. Input Data Siswa")
     print("2. Tampilkan Data Siswa")
-    print("3. Exit")
+    print("3. Exit/keluar")
     print("=" * 40)
 
 def tampilkan_header():
@@ -219,4 +219,5 @@ def main():
             pause()
 
 if __name__ == "__main__":
+
     main()
