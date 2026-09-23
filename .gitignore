@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+database_siswa.txt
+.DS_Store
+.vscode/
+.idea/
