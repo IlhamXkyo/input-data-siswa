@@ -5,6 +5,8 @@ __pycache__/
 venv/
 env/
 database_siswa.txt
+rekap_siswa.csv
+rekap_siswa.json
 .DS_Store
 .vscode/
 .idea/
